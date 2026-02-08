@@ -9,6 +9,10 @@ Nejdůležitějším dokumentem v každém projektu je **`.agent/instructions.md
 - **Určuje, které SKILLS se mají v daném projektu používat.**
 - Tento soubor si agent bere do kontextu při každé interakci (nebo by měl).
 
+**Složku `.agent` si zkopíruj do každého projektu a Antigravity s tím bude spolupracovat.**
+
+složku .agent si zkopíruj do každého projektu a antigravity s tím bude spolupracovat. 
+
 ## Přehled dostupných SKILLS
 
 | Skill | Popis |
